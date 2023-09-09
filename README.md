@@ -17,13 +17,20 @@
 ## Septiempre - Diciembre
 
 
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Práctica 4: Creación de la interfaz grafica para aplicación en Flutter |
+| Descripción  |  Se crea una interfaz grafica con una etiqueta de hola mundo, la interfaz se comienza desde 0  |
+|  Fecha de Actividad  |  08 de Septiembre de 2023  |
 
-
 &nbsp;
 &nbsp;
 
 &nbsp;
 &nbsp;
+
 
 <br>
 <br>
